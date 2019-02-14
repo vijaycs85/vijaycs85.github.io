@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://vijaycs85.github.io/apps/iravinmadiyil.ipa</string>
+					<string>https://vijaycs85.github.io/apps/IravinMadiyil.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://vijaycs85.github.io/apps/iravinmadiyil/images/icon.57x57.png</string>
+					<string>https://vijaycs85.github.io/apps/IravinMadiyil/images/icon.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://vijaycs85.github.io/apps/iravinmadiyil/images/icon.512x512.png</string>
+					<string>https://vijaycs85.github.io/apps/IravinMadiyil/images/icon.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://vijaycs85.github.io/apps/iravinmadiyil-6D443BD3-0ADF-4D6B-B6F9-C0240E8A1A5D.ipa</string>
+					<string>https://vijaycs85.github.io/apps/IravinMadiyil-6D443BD3-0ADF-4D6B-B6F9-C0240E8A1A5D.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -434,7 +434,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://vijaycs85.github.io/apps/iravinmadiyil-B5E9F578-E1BD-467F-A478-8C5E86BB5F98.ipa</string>
+					<string>https://vijaycs85.github.io/apps/IravinMadiyil-B5E9F578-E1BD-467F-A478-8C5E86BB5F98.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
